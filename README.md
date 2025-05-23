@@ -17,8 +17,8 @@ Hello! I'm Vishal 👋
 
  🔧 Industrial Automation
 
-- PLC Controllers
-- PLC Programming
+- PLC (Programmable Logic Controller) 
+- PLC Programming 
 - SCADA & HMI
 
 💡 *Why?*  
@@ -45,7 +45,7 @@ I'm always open to new ideas, interesting problems, and meaningful collaboration
 Feel free to check out my projects, or reach out to chat tech, automation, or even just say hi!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vishal9722-black?style=for-the-badge&logo=github)](https://github.com/vishal9722)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal9722)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishal-khambayat)
 
 ---
 
